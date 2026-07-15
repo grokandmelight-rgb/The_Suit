@@ -1,0 +1,8 @@
+Category,Component,Description,Quantity,Unit,Estimated Price (USD),Total Cost,Supplier/Link,Notes/Alternatives
+Base Layer,Compression Suit,"Base compression garment (long sleeve, full body)",1,Unit,150,#VALUE!,Amazon / Under Armour,"Moisture-wicking, medical-grade"
+Cooling,Liquid Cooling Pump,Mini peristaltic or centrifugal pump,2,pcs,45,#VALUE!,AliExpress / Adafruit,"12V, quiet operation"
+Cooling,Tubing,Silicone tubing kit,10,meters,2.5,#VALUE!,,"Flexible, food-grade"
+Sensors,DS18B20 Temp Sensor,Waterproof temperature sensor,6,pcs,3,#VALUE!,Amazon,For skin and fluid temp
+Electronics,ESP32 DevKit,Main microcontroller,1,Unit,8,#VALUE!,AliExpress,WiFi + BLE
+Power,LiPo Battery,5000mAh 3S,1,Unit,35,#VALUE!,,With BMS
+TOTAL,,,,,,#VALUE!,,
